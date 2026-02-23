@@ -184,3 +184,7 @@ predictions_score.json
 
 # additional venv
 .venv311/
+
+# dialogue records
+cc_dialogue/
+codex_dialogue/
